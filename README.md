@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<center>
+<p align="center">
 <img src="images/Data_Analysis.svg" alt="Data Analysis" width="500">
-</center>
+</p>
 
 I am Ahmad Ehyaei, a data scientist and explorer.
 Over the last 10 years, I have executed numerous data-driven industrial projects. 
@@ -37,6 +37,6 @@ I am interested in discovering the world around me through data.
 I like also generative art.
 
 <p align="center">
-<img src="images/kaashi.svg" alt="Data Analysis" height="300">
-<img src="images/triangle.svg" alt="Data Analysis" height="300">
+<img src="images/kaashi.svg" alt="Data Analysis" height="200">
+<img src="images/triangle.svg" alt="Data Analysis" height="200">
 </p>
